@@ -1,7 +1,24 @@
-## Hi there 👋
+## Hi! Welcome to my GitHub :)
+😄 **ABOUT ME**
+  - I'm from Shanghai, CN.
+  - I'm a Business Analyst @ Amazon, based in Seattle.
+  - I'm a double dawg @ UW, had my Bachelors in Economics and Masters in Business Analytics there.
+---
+🌱 **I’m currently learning**
+  - ML and Deep Learning.
+  - Data Engineering related stuff.
+  - Check out my repositories for some projects done in DataCamp.
+---
+💬 **Study Plan**
+-  Next Goal: Complete Deep Learning in Pytorch Track from DataCamp
+- [ ] Introduction to Deep Learning with Pytorch
+- [ ] Intermediate Deep Learning with Pytorch
+- [ ] Deep Learning for Image with Pytorch
+- [ ] Deep Learning for Text with Pytorch
+- Backlog: Machine Learning Scientist in Python
+
 
 <!--
-**denniscodesclean/denniscodesclean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
