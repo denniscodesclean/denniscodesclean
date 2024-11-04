@@ -10,12 +10,10 @@
   - Check out my repositories for some projects done in DataCamp.
 ---
 💬 **Study Plan**
--  Next Goal: Complete Deep Learning in Pytorch Track from DataCamp
-- [ ] Introduction to Deep Learning with Pytorch
+- [X] Introduction to Deep Learning with Pytorch
 - [ ] Intermediate Deep Learning with Pytorch
 - [ ] Deep Learning for Image with Pytorch
 - [ ] Deep Learning for Text with Pytorch
-- Backlog: Machine Learning Scientist in Python
 
 
 <!--
