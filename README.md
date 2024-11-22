@@ -11,7 +11,7 @@
 ---
 💬 **Study Plan**
 - [X] Introduction to Deep Learning with Pytorch
-- [ ] Intermediate Deep Learning with Pytorch
+- [X] Intermediate Deep Learning with Pytorch
 - [ ] Deep Learning for Image with Pytorch
 - [ ] Deep Learning for Text with Pytorch
 
