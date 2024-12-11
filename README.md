@@ -7,9 +7,10 @@
 🌱 **I’m currently learning**
   - ML and Deep Learning.
   - Data Engineering related stuff.
-  - Check out my repositories for some projects done in DataCamp.
+  - Check out my repositories for some projects done in DataCamp & Kaggle.
 ---
 💬 **Study Plan**
+- [X] Extreme Gradient Boosting with XGBoost
 - [X] Introduction to Deep Learning with Pytorch
 - [X] Intermediate Deep Learning with Pytorch
 - [ ] Deep Learning for Image with Pytorch
